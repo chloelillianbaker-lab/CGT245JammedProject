@@ -1183,3 +1183,536 @@ LogInit: Object subsystem initialized
 [2025.12.10-11.33.33:158][458]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
 [2025.12.10-11.33.33:158][458]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/library.
 [2025.12.10-11.33.36:355][650]LogDerivedDataCache: C:/Users/dead_/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.131 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10398 files in 12577 folders with total size 2447 MiB.
+[2025.12.10-11.37.19:195][631]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 357.801331
+[2025.12.10-11.37.20:195][634]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-11.37.20:195][634]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 358.467712, Update Interval: 332.580963
+[2025.12.10-11.39.25:311][572]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.10-11.39.25:325][572]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.10-11.39.25:430][573]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.10-11.39.39:576][421]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.12.10-11.39.39:578][421]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.10-11.39.49:648][ 24]LogContentBrowser: Attempting asset rename: Blueprints -> LevelBlueprints
+[2025.12.10-11.40.21:604][864]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.12.10-11.40.21:614][864]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.12.10-11.40.21:619][864]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.12.10-11.40.21:649][866]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.12.10-11.40.30:163][375]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Car1
+[2025.12.10-11.40.30:170][375]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.12.10-11.40.54:041][752]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.12.10-11.40.54:049][752]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.12.10-11.40.54:052][752]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.12.10-11.40.54:059][753]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.12.10-11.40.59:354][ 69]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Car2
+[2025.12.10-11.40.59:358][ 69]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.12.10-11.41.02:796][269]LogContentBrowser: Deferred new asset file creation: BP_Car3
+[2025.12.10-11.41.02:804][269]LogContentBrowser: Creating deferred item: BP_Car3
+[2025.12.10-11.41.02:813][270]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Car3).
+[2025.12.10-11.41.04:753][385]LogContentBrowser: Attempting asset rename: BP_Car3 -> BP_Car3
+[2025.12.10-11.41.04:761][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.12.10-11.41.04:765][385]LogContentBrowser: End creating deferred item BP_Car3
+[2025.12.10-11.41.06:340][474]LogContentBrowser: Deferred new asset file creation: BP_Car4
+[2025.12.10-11.41.06:401][474]LogContentBrowser: Creating deferred item: BP_Car4
+[2025.12.10-11.41.06:409][475]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Car4).
+[2025.12.10-11.41.07:153][520]LogContentBrowser: Attempting asset rename: BP_Car4 -> BP_Car4
+[2025.12.10-11.41.07:158][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.10-11.41.07:162][520]LogContentBrowser: End creating deferred item BP_Car4
+[2025.12.10-11.41.09:380][648]LogContentBrowser: Deferred new asset file creation: BP_Car5
+[2025.12.10-11.41.09:453][648]LogContentBrowser: Creating deferred item: BP_Car5
+[2025.12.10-11.41.09:462][649]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Car5).
+[2025.12.10-11.41.10:390][705]LogContentBrowser: Attempting asset rename: BP_Car5 -> BP_Car5
+[2025.12.10-11.41.10:395][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.12.10-11.41.10:399][705]LogContentBrowser: End creating deferred item BP_Car5
+[2025.12.10-11.41.12:420][822]LogContentBrowser: Deferred new asset file creation: BP_Car6
+[2025.12.10-11.41.12:490][822]LogContentBrowser: Creating deferred item: BP_Car6
+[2025.12.10-11.41.12:497][823]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Car6).
+[2025.12.10-11.41.13:594][889]LogContentBrowser: Attempting asset rename: BP_Car6 -> BP_Car6
+[2025.12.10-11.41.13:598][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.12.10-11.41.13:602][889]LogContentBrowser: End creating deferred item BP_Car6
+[2025.12.10-11.41.15:036][969]LogContentBrowser: Deferred new asset file creation: BP_Car7
+[2025.12.10-11.41.15:090][969]LogContentBrowser: Creating deferred item: BP_Car7
+[2025.12.10-11.41.15:097][970]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Car7).
+[2025.12.10-11.41.15:843][ 15]LogContentBrowser: Attempting asset rename: BP_Car7 -> BP_Car7
+[2025.12.10-11.41.15:848][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.12.10-11.41.15:853][ 15]LogContentBrowser: End creating deferred item BP_Car7
+[2025.12.10-11.41.16:512][ 55]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car7.BP_Car7
+[2025.12.10-11.41.16:512][ 55]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.41.16:512][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.41.16:518][ 55]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2025.12.10-11.41.18:847][181]LogSlate: Window 'BP_Car7' being destroyed
+[2025.12.10-11.41.18:855][181]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.41.18:855][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.41.28:995][783]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car7.BP_Car7
+[2025.12.10-11.41.28:995][783]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.41.28:995][783]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.41.30:449][859]LogSlate: Window 'BP_Car7' being destroyed
+[2025.12.10-11.41.30:458][859]LogSlate: Window 'BP_Car7' being destroyed
+[2025.12.10-11.41.30:460][859]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.41.30:460][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.41.35:535][159]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car7.BP_Car7
+[2025.12.10-11.41.35:536][159]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.41.35:536][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.41.37:264][251]LogSlate: Window 'BP_Car7' being destroyed
+[2025.12.10-11.41.37:272][251]LogSlate: Window 'BP_Car7' being destroyed
+[2025.12.10-11.41.37:274][251]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.41.37:274][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.42.15:749][553]LogContentBrowser: Attempting asset rename: BP_Car7 -> BP_WinCar
+[2025.12.10-11.42.15:770][553]LogMetaData: Removing '/Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.SKEL_BP_WinCar_C' ref from Metadata '/Game/AssetsvilleTown/LevelBlueprints/BP_Car7.PackageMetaData'
+[2025.12.10-11.42.15:770][553]LogMetaData: Removing '/Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.BP_WinCar_C' ref from Metadata '/Game/AssetsvilleTown/LevelBlueprints/BP_Car7.PackageMetaData'
+[2025.12.10-11.42.15:770][553]LogMetaData: Removing '/Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.SKEL_BP_WinCar_C:ReceiveBeginPlay' ref from Metadata '/Game/AssetsvilleTown/LevelBlueprints/BP_Car7.PackageMetaData'
+[2025.12.10-11.42.15:770][553]LogMetaData: Removing '/Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.SKEL_BP_WinCar_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/AssetsvilleTown/LevelBlueprints/BP_Car7.PackageMetaData'
+[2025.12.10-11.42.15:770][553]LogMetaData: Removing '/Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.SKEL_BP_WinCar_C:ReceiveTick' ref from Metadata '/Game/AssetsvilleTown/LevelBlueprints/BP_Car7.PackageMetaData'
+[2025.12.10-11.42.15:770][553]LogMetaData: Removing '/Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.SKEL_BP_WinCar_C:UserConstructionScript' ref from Metadata '/Game/AssetsvilleTown/LevelBlueprints/BP_Car7.PackageMetaData'
+[2025.12.10-11.42.15:774][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-11.42.15:824][553]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.003533 seconds
+[2025.12.10-11.42.15:826][553]LogSavePackage: Moving output files for package: /Game/AssetsvilleTown/LevelBlueprints/BP_WinCar
+[2025.12.10-11.42.15:826][553]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/BP_WinCar486FFD2946F824C8BD2959A24A3D073A.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/AssetsvilleTown/LevelBlueprints/BP_WinCar.uasset'
+[2025.12.10-11.42.15:836][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms
+[2025.12.10-11.42.15:842][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.10-11.42.15:845][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.10-11.42.15:847][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.12.10-11.42.15:848][553]AssetCheck: New page: Asset Save: BP_WinCar
+[2025.12.10-11.42.15:848][553]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.BP_WinCar
+[2025.12.10-11.42.27:332][239]LogContentBrowser: Deferred new asset file creation: BP_Car7
+[2025.12.10-11.42.27:407][239]LogContentBrowser: Creating deferred item: BP_Car7
+[2025.12.10-11.42.27:416][240]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Car7).
+[2025.12.10-11.42.28:194][287]LogContentBrowser: Attempting asset rename: BP_Car7 -> BP_Car7
+[2025.12.10-11.42.28:198][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.12.10-11.42.28:201][287]LogContentBrowser: End creating deferred item BP_Car7
+[2025.12.10-11.42.29:374][353]LogContentBrowser: Deferred new asset file creation: BP_Car8
+[2025.12.10-11.42.29:435][353]LogContentBrowser: Creating deferred item: BP_Car8
+[2025.12.10-11.42.29:443][354]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Car8).
+[2025.12.10-11.42.30:538][420]LogContentBrowser: Attempting asset rename: BP_Car8 -> BP_Car8
+[2025.12.10-11.42.30:543][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.10-11.42.30:547][420]LogContentBrowser: End creating deferred item BP_Car8
+[2025.12.10-11.42.31:673][487]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1
+[2025.12.10-11.42.31:674][487]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.42.31:674][487]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.42.32:108][487]LogSlate: Took 0.000823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.10-11.42.32:111][487]LogViewport: Scene viewport resized to 2532x613, mode Windowed.
+[2025.12.10-11.42.40:630][975]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.12.10-11.42.43:295][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.42.55:193][809]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 693.801514
+[2025.12.10-11.42.55:318][815]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-11.42.55:318][815]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 693.914612, Update Interval: 315.192719
+[2025.12.10-11.44.13:235][242]LogViewport: Scene viewport resized to 2526x630, mode Windowed.
+[2025.12.10-11.44.13:311][244]LogViewport: Scene viewport resized to 782x110, mode Windowed.
+[2025.12.10-11.44.13:993][285]LogViewport: Scene viewport resized to 2548x617, mode Windowed.
+[2025.12.10-11.44.14:308][304]LogSlate: Window 'BP_Car1' being destroyed
+[2025.12.10-11.44.30:241][249]LogTexture: Display: Building textures: /Game/AssetsvilleTown/Textures/Base/T_colorPalette2048.T_colorPalette2048 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.12.10-11.44.30:291][249]LogTexture: Display: Building textures: /Game/AssetsvilleTown/Textures/Base/T_colorPalette_METAL.T_colorPalette_METAL (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.12.10-11.44.30:328][249]LogSkeletalMesh: Building Skeletal Mesh SK_veh_Offroad_01...
+[2025.12.10-11.44.30:399][250]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_veh_Offroad_01) ...
+[2025.12.10-11.44.30:422][250]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Offroad_01.SK_veh_Offroad_01
+[2025.12.10-11.44.30:422][250]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.44.30:488][250]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Offroad_01.SK_veh_Offroad_01
+[2025.12.10-11.44.30:488][250]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Offroad_01.SK_veh_Offroad_01
+[2025.12.10-11.44.30:489][250]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Offroad_01.SK_veh_Offroad_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2025.12.10-11.44.30:490][250]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Offroad_01.SK_veh_Offroad_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: ================================================
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Total job queries 21, among them cache hits 0 (0.00%)
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: RAM used: 50.41 KiB of 1.60 GiB budget. Usage: 0.00%
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Jobs assigned 18, completed 2 (11.11%)
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.45 s
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Job execution time: average 0.50 s, max 0.50 s
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Job life time (pending + execution): average 0.50 s, max 0.51
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Shader code size: average 4.412 KiB, min 4.359 KiB, max 4.465 KiB
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.51 s
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Average processing rate: 3.94 jobs/sec
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Total thread time: 0.192 s
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Total thread preprocess time: 0.035 s
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Percentage time preprocessing: 17.96%
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Effective parallelization: 0.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display:                                                  FHitProxyPS - 100.00% of total time (compiled    2 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2025.12.10-11.44.30:976][275]LogShaderCompilers: Display: ================================================
+[2025.12.10-11.44.31:238][290]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Offroad_01.SK_veh_Offroad_01
+[2025.12.10-11.44.31:238][290]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Offroad_01.SK_veh_Offroad_01
+[2025.12.10-11.44.31:241][290]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Offroad_01.SK_veh_Offroad_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_107C61B9976A2AAA02_1515288407
+[2025.12.10-11.44.31:242][290]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Offroad_01.SK_veh_Offroad_01 as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_107C61B9976A2AAA02_1515288407
+[2025.12.10-11.44.31:566][294]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.44.31:698][296]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.44.31:717][297]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.44.32:285][328]Cmd: DELETE
+[2025.12.10-11.44.32:285][328]Cmd: ACTOR DELETE
+[2025.12.10-11.44.32:294][328]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.12.10-11.44.32:304][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.12.10-11.44.32:305][328]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2025.12.10-11.45.55:346][249]LogSkeletalMesh: Building Skeletal Mesh SK_veh_Sedan_01...
+[2025.12.10-11.45.55:365][249]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_veh_Sedan_01) ...
+[2025.12.10-11.45.55:412][249]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Sedan_01.SK_veh_Sedan_01
+[2025.12.10-11.45.55:466][249]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.45.58:869][453]BlueprintLog: New page: Compile BP_Car1
+[2025.12.10-11.45.58:885][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.12.10-11.45.59:729][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-11.45.59:783][500]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.45.59:843][500]LogSavePackage: Moving output files for package: /Game/AssetsvilleTown/LevelBlueprints/BP_Car1
+[2025.12.10-11.45.59:843][500]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/BP_Car179D7FF864ABAB785E37B0BB3FAFA22F0.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/AssetsvilleTown/LevelBlueprints/BP_Car1.uasset'
+[2025.12.10-11.45.59:852][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 185 ms)
+[2025.12.10-11.45.59:853][500]AssetCheck: New page: Asset Save: BP_Car1
+[2025.12.10-11.45.59:853][500]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1
+[2025.12.10-11.46.01:623][604]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.46.01:623][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.46.09:185][ 50]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1_C
+[2025.12.10-11.46.09:185][ 50]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1_C
+[2025.12.10-11.46.09:186][ 50]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1 as actor: BP_Car1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car1_C_0
+[2025.12.10-11.46.09:187][ 50]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1 as actor: BP_Car1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car1_C_0
+[2025.12.10-11.46.09:189][ 50]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.12.10-11.46.10:339][119]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1_C
+[2025.12.10-11.46.10:339][119]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1_C
+[2025.12.10-11.46.10:340][119]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1 as actor: BP_Car1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car1_C_UAID_107C61B9976A2AAA02_1614388408
+[2025.12.10-11.46.10:341][119]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1 as actor: BP_Car1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car1_C_UAID_107C61B9976A2AAA02_1614388408
+[2025.12.10-11.46.14:354][358]Cmd: DELETE
+[2025.12.10-11.46.14:354][358]Cmd: ACTOR DELETE
+[2025.12.10-11.46.14:355][358]LogEditorActor: Deleted Actor: BP_Car1_C
+[2025.12.10-11.46.14:367][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.12.10-11.46.14:369][358]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2025.12.10-11.46.17:079][520]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car2.BP_Car2
+[2025.12.10-11.46.17:079][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.46.17:079][520]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.46.17:182][520]LogViewport: Scene viewport resized to 2535x613, mode Windowed.
+[2025.12.10-11.46.42:426][  3]LogSkeletalMesh: Building Skeletal Mesh SK_veh_Truck_01...
+[2025.12.10-11.46.42:445][  3]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_veh_Truck_01) ...
+[2025.12.10-11.46.42:456][  3]LogSkeletalMesh: Display: /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Truck_01.SK_veh_Truck_01 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.12.10-11.46.42:644][  3]LogSkeletalMesh: Built Skeletal Mesh [0.22s] /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Truck_01.SK_veh_Truck_01
+[2025.12.10-11.46.42:651][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.46.42:697][  4]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.46.45:772][185]BlueprintLog: New page: Compile BP_Car2
+[2025.12.10-11.46.45:786][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.12.10-11.46.46:570][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-11.46.46:653][227]LogSavePackage: Moving output files for package: /Game/AssetsvilleTown/LevelBlueprints/BP_Car2
+[2025.12.10-11.46.46:653][227]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/BP_Car2E35F31E64651C48705627F9D4F899D98.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/AssetsvilleTown/LevelBlueprints/BP_Car2.uasset'
+[2025.12.10-11.46.46:662][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 278 ms)
+[2025.12.10-11.46.46:663][227]AssetCheck: New page: Asset Save: BP_Car2
+[2025.12.10-11.46.46:663][227]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car2.BP_Car2
+[2025.12.10-11.46.48:488][336]LogSlate: Window 'BP_Car2' being destroyed
+[2025.12.10-11.46.48:500][336]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.46.48:500][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.46.51:587][517]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car2.BP_Car2_C
+[2025.12.10-11.46.51:587][517]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car2.BP_Car2_C
+[2025.12.10-11.46.51:589][517]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car2.BP_Car2 as actor: BP_Car2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car2_C_0
+[2025.12.10-11.46.51:590][517]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car2.BP_Car2 as actor: BP_Car2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car2_C_0
+[2025.12.10-11.46.52:442][568]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car2.BP_Car2_C
+[2025.12.10-11.46.52:442][568]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car2.BP_Car2_C
+[2025.12.10-11.46.52:444][568]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car2.BP_Car2 as actor: BP_Car2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car2_C_UAID_107C61B9976A2AAA02_1656491409
+[2025.12.10-11.46.52:445][568]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car2.BP_Car2 as actor: BP_Car2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car2_C_UAID_107C61B9976A2AAA02_1656491409
+[2025.12.10-11.46.55:149][723]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1_C
+[2025.12.10-11.46.55:149][723]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1_C
+[2025.12.10-11.46.55:151][723]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1 as actor: BP_Car1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car1_C_1
+[2025.12.10-11.46.55:151][723]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1 as actor: BP_Car1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car1_C_1
+[2025.12.10-11.46.55:706][755]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1_C
+[2025.12.10-11.46.55:706][755]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1_C
+[2025.12.10-11.46.55:708][755]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1 as actor: BP_Car1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car1_C_UAID_107C61B9976A2AAA02_1659755410
+[2025.12.10-11.46.55:709][755]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1 as actor: BP_Car1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car1_C_UAID_107C61B9976A2AAA02_1659755410
+[2025.12.10-11.47.00:180][ 15]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car3.BP_Car3
+[2025.12.10-11.47.00:180][ 15]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.47.00:180][ 15]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.47.01:943][114]LogSlate: Window 'BP_Car3' being destroyed
+[2025.12.10-11.47.01:954][114]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.47.01:954][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.47.05:120][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car3.BP_Car3
+[2025.12.10-11.47.05:120][303]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.47.05:121][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.47.10:133][597]LogSlate: Window 'BP_Car3' being destroyed
+[2025.12.10-11.47.10:148][597]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.47.10:148][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.47.14:676][862]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car3.BP_Car3
+[2025.12.10-11.47.14:676][862]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.47.14:677][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.47.19:402][137]LogSlate: Window 'BP_Car3' being destroyed
+[2025.12.10-11.47.19:410][137]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.47.19:410][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.47.19:419][137]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car3.BP_Car3
+[2025.12.10-11.47.19:419][137]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.47.19:419][137]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.47.19:536][137]LogViewport: Scene viewport resized to 2539x613, mode Windowed.
+[2025.12.10-11.47.39:967][327]LogSkeletalMesh: Building Skeletal Mesh SK_veh_Muscle_01...
+[2025.12.10-11.47.39:987][327]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_veh_Muscle_01) ...
+[2025.12.10-11.47.40:034][327]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Muscle_01.SK_veh_Muscle_01
+[2025.12.10-11.47.40:038][327]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.47.40:166][328]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.47.42:858][487]BlueprintLog: New page: Compile BP_Car3
+[2025.12.10-11.47.42:878][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.12.10-11.47.43:526][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-11.47.43:667][522]LogSavePackage: Moving output files for package: /Game/AssetsvilleTown/LevelBlueprints/BP_Car3
+[2025.12.10-11.47.43:667][522]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/BP_Car3AD3F9A394BF4B1B6BE9AF8B5A20860CE.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/AssetsvilleTown/LevelBlueprints/BP_Car3.uasset'
+[2025.12.10-11.47.43:677][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 428 ms)
+[2025.12.10-11.47.43:678][522]AssetCheck: New page: Asset Save: BP_Car3
+[2025.12.10-11.47.43:678][522]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car3.BP_Car3
+[2025.12.10-11.47.44:602][576]LogSlate: Window 'BP_Car3' being destroyed
+[2025.12.10-11.47.44:609][576]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.47.44:609][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.47.48:021][776]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car3.BP_Car3_C
+[2025.12.10-11.47.48:021][776]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car3.BP_Car3_C
+[2025.12.10-11.47.48:023][776]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car3.BP_Car3 as actor: BP_Car3_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car3_C_0
+[2025.12.10-11.47.48:023][776]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car3.BP_Car3 as actor: BP_Car3_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car3_C_0
+[2025.12.10-11.47.49:257][849]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car3.BP_Car3_C
+[2025.12.10-11.47.49:257][849]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car3.BP_Car3_C
+[2025.12.10-11.47.49:260][849]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car3.BP_Car3 as actor: BP_Car3_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car3_C_UAID_107C61B9976A2AAA02_1713306411
+[2025.12.10-11.47.49:261][849]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car3.BP_Car3 as actor: BP_Car3_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car3_C_UAID_107C61B9976A2AAA02_1713306411
+[2025.12.10-11.47.51:698][991]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car4.BP_Car4
+[2025.12.10-11.47.51:698][991]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.47.51:698][991]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.47.53:428][ 88]LogSlate: Window 'BP_Car4' being destroyed
+[2025.12.10-11.47.53:437][ 88]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.47.53:437][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.47.53:446][ 88]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car4.BP_Car4
+[2025.12.10-11.47.53:446][ 88]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.47.53:446][ 88]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.47.53:564][ 88]LogViewport: Scene viewport resized to 2539x613, mode Windowed.
+[2025.12.10-11.48.15:045][333]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1013.651733
+[2025.12.10-11.48.15:146][339]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-11.48.15:146][339]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1013.735107, Update Interval: 308.346191
+[2025.12.10-11.48.15:733][372]LogSkeletalMesh: Building Skeletal Mesh SK_veh_VegetableTruck...
+[2025.12.10-11.48.15:752][372]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_veh_VegetableTruck) ...
+[2025.12.10-11.48.16:027][372]LogSkeletalMesh: Built Skeletal Mesh [0.29s] /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_VegetableTruck.SK_veh_VegetableTruck
+[2025.12.10-11.48.16:031][372]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.48.16:095][373]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.48.18:818][531]BlueprintLog: New page: Compile BP_Car4
+[2025.12.10-11.48.18:833][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.12.10-11.48.20:073][601]LogSlate: Window 'BP_Car4' being destroyed
+[2025.12.10-11.48.20:083][601]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.48.20:083][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.48.22:801][760]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car4.BP_Car4_C
+[2025.12.10-11.48.22:801][760]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car4.BP_Car4_C
+[2025.12.10-11.48.22:803][760]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car4.BP_Car4 as actor: BP_Car4_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car4_C_0
+[2025.12.10-11.48.22:804][760]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car4.BP_Car4 as actor: BP_Car4_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car4_C_0
+[2025.12.10-11.48.24:113][838]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car4.BP_Car4_C
+[2025.12.10-11.48.24:113][838]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car4.BP_Car4_C
+[2025.12.10-11.48.24:116][838]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car4.BP_Car4 as actor: BP_Car4_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car4_C_UAID_107C61B9976A2AAA02_1748162412
+[2025.12.10-11.48.24:117][838]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car4.BP_Car4 as actor: BP_Car4_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car4_C_UAID_107C61B9976A2AAA02_1748162412
+[2025.12.10-11.48.29:450][153]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car5.BP_Car5
+[2025.12.10-11.48.29:450][153]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.48.29:450][153]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.48.30:614][216]LogSlate: Window 'BP_Car5' being destroyed
+[2025.12.10-11.48.30:622][216]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.48.30:622][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.48.30:631][216]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car5.BP_Car5
+[2025.12.10-11.48.30:632][216]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.48.30:632][216]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.48.30:747][216]LogViewport: Scene viewport resized to 2539x613, mode Windowed.
+[2025.12.10-11.48.55:113][633]LogTexture: Display: Building textures: /Game/AssetsvilleTown/Textures/Tiled/T_planks_01.T_planks_01 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2025.12.10-11.48.55:132][633]LogTexture: Display: Building textures: /Game/AssetsvilleTown/Textures/T_PoliceCar_01.T_PoliceCar_01 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2025.12.10-11.48.55:142][633]LogSkeletalMesh: Building Skeletal Mesh SK_veh_PoliceCarSedan_01...
+[2025.12.10-11.48.55:162][633]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_veh_PoliceCarSedan_01) ...
+[2025.12.10-11.48.55:214][633]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_PoliceCarSedan_01.SK_veh_PoliceCarSedan_01
+[2025.12.10-11.48.55:218][633]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.48.55:348][634]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: ================================================
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Total job queries 43, among them cache hits 4 (9.30%)
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Tracking 35 distinct input hashes that result in 28 distinct outputs (80.00%)
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: RAM used: 891.21 KiB of 1.60 GiB budget. Usage: 0.05%
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Shaders Compiled: 33
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Jobs assigned 37, completed 33 (89.19%)
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Average time worker was idle: 62.76 s
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.47 s
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Job execution time: average 0.41 s, max 0.75 s
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Job life time (pending + execution): average 0.51 s, max 0.81
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Shader code size: average 39.316 KiB, min 4.359 KiB, max 85.32 KiB
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.67 s
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Jobs were issued in 37 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Average processing rate: 12.37 jobs/sec
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Total thread time: 6.759 s
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Total thread preprocess time: 0.705 s
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Percentage time preprocessing: 10.43%
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Effective parallelization: 2.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.32 sec, max 0.39 sec, min 0.25 sec)
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.27 sec, max 0.44 sec, min 0.17 sec)
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    3 times, average 0.22 sec, max 0.24 sec, min 0.22 sec)
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.21 sec, max 0.34 sec, min 0.13 sec)
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.86% of total time (compiled    6 times, average 0.27 sec, max 0.44 sec, min 0.17 sec)
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.65% of total time (compiled    6 times, average 0.21 sec, max 0.34 sec, min 0.13 sec)
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display:                                                  FVelocityVS - 10.81% of total time (compiled    4 times, average 0.18 sec, max 0.24 sec, min 0.13 sec)
+[2025.12.10-11.48.55:584][645]LogShaderCompilers: Display:                                                  FHitProxyVS - 9.97% of total time (compiled    3 times, average 0.22 sec, max 0.24 sec, min 0.22 sec)
+[2025.12.10-11.48.55:585][645]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.46% of total time (compiled    2 times, average 0.32 sec, max 0.39 sec, min 0.25 sec)
+[2025.12.10-11.48.55:585][645]LogShaderCompilers: Display: ================================================
+[2025.12.10-11.48.58:010][789]BlueprintLog: New page: Compile BP_Car5
+[2025.12.10-11.48.58:026][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.12.10-11.48.59:013][840]LogSlate: Window 'BP_Car5' being destroyed
+[2025.12.10-11.48.59:023][840]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.48.59:023][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.49.01:803][  1]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car5.BP_Car5_C
+[2025.12.10-11.49.01:803][  1]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car5.BP_Car5_C
+[2025.12.10-11.49.01:806][  1]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car5.BP_Car5 as actor: BP_Car5_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car5_C_0
+[2025.12.10-11.49.01:807][  1]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car5.BP_Car5 as actor: BP_Car5_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car5_C_0
+[2025.12.10-11.49.02:981][ 71]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car5.BP_Car5_C
+[2025.12.10-11.49.02:981][ 71]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car5.BP_Car5_C
+[2025.12.10-11.49.02:985][ 71]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car5.BP_Car5 as actor: BP_Car5_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car5_C_UAID_107C61B9976A2AAA02_1787030413
+[2025.12.10-11.49.02:986][ 71]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car5.BP_Car5 as actor: BP_Car5_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car5_C_UAID_107C61B9976A2AAA02_1787030413
+[2025.12.10-11.49.06:574][282]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car6.BP_Car6
+[2025.12.10-11.49.06:574][282]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.49.06:574][282]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.49.08:103][364]LogSlate: Window 'BP_Car6' being destroyed
+[2025.12.10-11.49.08:114][364]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.49.08:114][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.49.08:123][364]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car6.BP_Car6
+[2025.12.10-11.49.08:124][364]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.49.08:124][364]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.49.08:244][364]LogViewport: Scene viewport resized to 2539x613, mode Windowed.
+[2025.12.10-11.49.38:017][102]LogSkeletalMesh: Building Skeletal Mesh SK_veh_Van_01...
+[2025.12.10-11.49.38:037][102]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_veh_Van_01) ...
+[2025.12.10-11.49.38:078][102]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Van_01.SK_veh_Van_01
+[2025.12.10-11.49.38:082][102]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.49.38:169][103]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.49.40:817][257]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.49.43:357][403]LogSkeletalMesh: Building Skeletal Mesh SK_veh_TruckTow...
+[2025.12.10-11.49.43:375][403]LogSkeletalMesh: Display: /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_TruckTow.SK_veh_TruckTow ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.12.10-11.49.43:376][403]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_veh_TruckTow) ...
+[2025.12.10-11.49.43:488][403]LogSkeletalMesh: Built Skeletal Mesh [0.13s] /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_TruckTow.SK_veh_TruckTow
+[2025.12.10-11.49.43:588][405]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.49.44:946][485]BlueprintLog: New page: Compile BP_Car6
+[2025.12.10-11.49.44:963][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.12.10-11.49.46:076][547]LogSlate: Window 'BP_Car6' being destroyed
+[2025.12.10-11.49.46:086][547]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.49.46:086][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.49.49:474][745]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car6.BP_Car6_C
+[2025.12.10-11.49.49:474][745]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car6.BP_Car6_C
+[2025.12.10-11.49.49:475][745]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car6.BP_Car6 as actor: BP_Car6_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car6_C_0
+[2025.12.10-11.49.49:476][745]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car6.BP_Car6 as actor: BP_Car6_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car6_C_0
+[2025.12.10-11.49.51:802][884]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car6.BP_Car6_C
+[2025.12.10-11.49.51:802][884]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car6.BP_Car6_C
+[2025.12.10-11.49.51:804][884]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car6.BP_Car6 as actor: BP_Car6_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car6_C_UAID_107C61B9976A2AAA02_1835851414
+[2025.12.10-11.49.51:806][884]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car6.BP_Car6 as actor: BP_Car6_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car6_C_UAID_107C61B9976A2AAA02_1835851414
+[2025.12.10-11.49.57:787][232]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car7.BP_Car7
+[2025.12.10-11.49.57:788][232]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.49.57:788][232]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.49.59:081][302]LogSlate: Window 'BP_Car7' being destroyed
+[2025.12.10-11.49.59:090][302]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.49.59:090][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.49.59:097][302]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car7.BP_Car7
+[2025.12.10-11.49.59:097][302]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.49.59:097][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.49.59:221][302]LogViewport: Scene viewport resized to 2539x613, mode Windowed.
+[2025.12.10-11.50.14:017][160]LogSkeletalMesh: Building Skeletal Mesh SK_veh_SUV_01...
+[2025.12.10-11.50.14:036][160]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_veh_SUV_01) ...
+[2025.12.10-11.50.14:084][160]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_SUV_01.SK_veh_SUV_01
+[2025.12.10-11.50.14:088][160]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.50.14:219][161]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.50.16:927][321]BlueprintLog: New page: Compile BP_Car7
+[2025.12.10-11.50.16:946][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.12.10-11.50.17:816][368]LogSlate: Window 'BP_Car7' being destroyed
+[2025.12.10-11.50.17:824][368]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.50.17:824][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.50.21:043][555]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car7.BP_Car7_C
+[2025.12.10-11.50.21:043][555]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car7.BP_Car7_C
+[2025.12.10-11.50.21:045][555]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car7.BP_Car7 as actor: BP_Car7_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car7_C_0
+[2025.12.10-11.50.21:046][555]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car7.BP_Car7 as actor: BP_Car7_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car7_C_0
+[2025.12.10-11.50.22:988][671]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car7.BP_Car7_C
+[2025.12.10-11.50.22:988][671]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car7.BP_Car7_C
+[2025.12.10-11.50.22:991][671]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car7.BP_Car7 as actor: BP_Car7_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car7_C_UAID_107C61B9976A2AAA02_1867037415
+[2025.12.10-11.50.22:992][671]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car7.BP_Car7 as actor: BP_Car7_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car7_C_UAID_107C61B9976A2AAA02_1867037415
+[2025.12.10-11.50.27:223][916]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8
+[2025.12.10-11.50.27:223][916]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.50.27:223][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.50.29:422][ 41]LogSlate: Window 'BP_Car8' being destroyed
+[2025.12.10-11.50.29:432][ 41]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.50.29:432][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.50.29:441][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8
+[2025.12.10-11.50.29:442][ 41]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.50.29:442][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.50.29:556][ 41]LogViewport: Scene viewport resized to 2539x613, mode Windowed.
+[2025.12.10-11.50.41:945][763]LogSkeletalMesh: Building Skeletal Mesh SK_veh_Hearse...
+[2025.12.10-11.50.41:962][763]LogSkeletalMesh: Display: /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Hearse.SK_veh_Hearse ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.12.10-11.50.41:964][763]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_veh_Hearse) ...
+[2025.12.10-11.50.42:041][763]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Hearse.SK_veh_Hearse
+[2025.12.10-11.50.42:047][763]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.50.42:179][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.50.44:790][920]BlueprintLog: New page: Compile BP_Car8
+[2025.12.10-11.50.44:805][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.12.10-11.50.45:459][955]LogSlate: Window 'BP_Car8' being destroyed
+[2025.12.10-11.50.45:467][955]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.50.45:467][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.50.48:468][130]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8_C
+[2025.12.10-11.50.48:468][130]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8_C
+[2025.12.10-11.50.48:470][130]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8 as actor: BP_Car8_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car8_C_0
+[2025.12.10-11.50.48:472][130]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8 as actor: BP_Car8_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car8_C_0
+[2025.12.10-11.50.49:028][163]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8_C
+[2025.12.10-11.50.49:028][163]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8_C
+[2025.12.10-11.50.49:030][163]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8 as actor: BP_Car8_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car8_C_UAID_107C61B9976A2AAA02_1893077416
+[2025.12.10-11.50.49:032][163]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8 as actor: BP_Car8_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car8_C_UAID_107C61B9976A2AAA02_1893077416
+[2025.12.10-11.50.53:894][445]Cmd: DELETE
+[2025.12.10-11.50.53:894][445]Cmd: ACTOR DELETE
+[2025.12.10-11.50.53:896][445]LogEditorActor: Deleted Actor: BP_Car8_C
+[2025.12.10-11.50.53:908][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.12.10-11.50.53:910][445]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.12.10-11.50.56:189][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8_C
+[2025.12.10-11.50.56:189][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8_C
+[2025.12.10-11.50.56:190][578]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8 as actor: BP_Car8_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car8_C_1
+[2025.12.10-11.50.56:190][578]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8 as actor: BP_Car8_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car8_C_1
+[2025.12.10-11.50.58:737][730]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8_C
+[2025.12.10-11.50.58:737][730]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8_C
+[2025.12.10-11.50.58:739][730]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8 as actor: BP_Car8_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car8_C_UAID_107C61B9976A2AAA02_1902786417
+[2025.12.10-11.50.58:740][730]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8 as actor: BP_Car8_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car8_C_UAID_107C61B9976A2AAA02_1902786417
+[2025.12.10-11.51.01:868][915]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.BP_WinCar
+[2025.12.10-11.51.01:869][915]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.51.01:869][915]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.51.03:200][988]LogSlate: Window 'BP_WinCar' being destroyed
+[2025.12.10-11.51.03:211][988]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.51.03:211][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.51.03:219][988]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.BP_WinCar
+[2025.12.10-11.51.03:219][988]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.51.03:219][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.12.10-11.51.03:341][988]LogViewport: Scene viewport resized to 2539x613, mode Windowed.
+[2025.12.10-11.51.32:391][660]LogSkeletalMesh: Building Skeletal Mesh SK_veh_SportClassic_01a...
+[2025.12.10-11.51.32:411][660]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_veh_SportClassic_01a) ...
+[2025.12.10-11.51.32:496][660]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_SportClassic_01a.SK_veh_SportClassic_01a
+[2025.12.10-11.51.32:501][660]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.51.32:586][661]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-11.51.35:108][810]BlueprintLog: New page: Compile BP_WinCar
+[2025.12.10-11.51.35:123][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.12.10-11.51.36:047][861]LogSlate: Window 'BP_WinCar' being destroyed
+[2025.12.10-11.51.36:057][861]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.51.36:057][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.51.38:948][ 28]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.BP_WinCar_C
+[2025.12.10-11.51.38:948][ 28]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.BP_WinCar_C
+[2025.12.10-11.51.38:950][ 28]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.BP_WinCar as actor: BP_WinCar_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_WinCar_C_0
+[2025.12.10-11.51.38:951][ 28]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.BP_WinCar as actor: BP_WinCar_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_WinCar_C_0
+[2025.12.10-11.51.44:309][347]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.BP_WinCar_C
+[2025.12.10-11.51.44:309][347]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.BP_WinCar_C
+[2025.12.10-11.51.44:311][347]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.BP_WinCar as actor: BP_WinCar_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_WinCar_C_UAID_107C61B9976A2AAA02_1948358418
+[2025.12.10-11.51.44:312][347]LogActorFactory: Actor Factory spawned Blueprint /Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.BP_WinCar as actor: BP_WinCar_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_WinCar_C_UAID_107C61B9976A2AAA02_1948358418
+[2025.12.10-11.51.48:169][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-11.51.48:227][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.12.10-11.51.48:238][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.12.10-11.51.48:249][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.12.10-11.51.48:251][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/II/THSFGFYZMQI0ER4MCH453J
+[2025.12.10-11.51.48:251][575]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/THSFGFYZMQI0ER4MCH453JC7650FA44C31F10BE42D78B7EE21031A.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/II/THSFGFYZMQI0ER4MCH453J.uasset'
+[2025.12.10-11.51.48:253][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/3R/9VNEZ2X91RL4GZ575XIWU9
+[2025.12.10-11.51.48:253][575]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/9VNEZ2X91RL4GZ575XIWU9D21BE61247E465C282BCD48846B6339A.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/3R/9VNEZ2X91RL4GZ575XIWU9.uasset'
+[2025.12.10-11.51.48:255][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/9Y/GVTEAGTBH223LJPANG2DQM
+[2025.12.10-11.51.48:255][575]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/GVTEAGTBH223LJPANG2DQM86BC6C4E4BBD8BB466551F935FD55E58.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/9Y/GVTEAGTBH223LJPANG2DQM.uasset'
+[2025.12.10-11.51.48:257][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/UT/MH1HSGMODRYQV7NSI90WQG
+[2025.12.10-11.51.48:257][575]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/MH1HSGMODRYQV7NSI90WQGD66C29A84C87030A6C008696522E39D5.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/UT/MH1HSGMODRYQV7NSI90WQG.uasset'
+[2025.12.10-11.51.48:259][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/X4/WEHH0SHSJC97UYJSWVVRSX
+[2025.12.10-11.51.48:259][575]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/WEHH0SHSJC97UYJSWVVRSX1230A1954B0C89878C69F58CD06BFD41.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/X4/WEHH0SHSJC97UYJSWVVRSX.uasset'
+[2025.12.10-11.51.48:261][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/ZO/RG32OSVG3STS4J46MQPBAC
+[2025.12.10-11.51.48:261][575]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/RG32OSVG3STS4J46MQPBAC23FC8A3A42343C720778588CD2F7B693.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/ZO/RG32OSVG3STS4J46MQPBAC.uasset'
+[2025.12.10-11.51.48:263][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/V9/TU4QELYEPF5EBXPNH3885S
+[2025.12.10-11.51.48:263][575]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/TU4QELYEPF5EBXPNH3885SE1F434D14151C317442113BCE6A8F4E0.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/V9/TU4QELYEPF5EBXPNH3885S.uasset'
+[2025.12.10-11.51.48:265][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BV/7ISDWOAVECGF0C9B3ZE2RC
+[2025.12.10-11.51.48:266][575]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/7ISDWOAVECGF0C9B3ZE2RC9AF3DF3D46CA2DD18E90F4887770FBB9.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BV/7ISDWOAVECGF0C9B3ZE2RC.uasset'
+[2025.12.10-11.51.48:267][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/4F/ARZ0BCEGP83OWAOBE6588M
+[2025.12.10-11.51.48:267][575]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/ARZ0BCEGP83OWAOBE6588M560408F743765EDD0029C89959C4F59B.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/4F/ARZ0BCEGP83OWAOBE6588M.uasset'
+[2025.12.10-11.51.48:283][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 544 ms)
+[2025.12.10-11.51.48:287][575]AssetCheck: New page: Asset Save: multiple assets
+[2025.12.10-11.51.48:287][575]LogContentValidation: Display: Validating /Game/AssetsvilleTown/LevelBlueprints/BP_Car1.BP_Car1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car1_C_UAID_107C61B9976A2AAA02_1659755410
+[2025.12.10-11.51.48:287][575]LogContentValidation: Display: Validating /Game/AssetsvilleTown/LevelBlueprints/BP_Car2.BP_Car2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car2_C_UAID_107C61B9976A2AAA02_1656491409
+[2025.12.10-11.51.48:287][575]LogContentValidation: Display: Validating /Game/AssetsvilleTown/LevelBlueprints/BP_Car3.BP_Car3_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car3_C_UAID_107C61B9976A2AAA02_1713306411
+[2025.12.10-11.51.48:287][575]LogContentValidation: Display: Validating /Game/AssetsvilleTown/LevelBlueprints/BP_Car4.BP_Car4_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car4_C_UAID_107C61B9976A2AAA02_1748162412
+[2025.12.10-11.51.48:287][575]LogContentValidation: Display: Validating /Game/AssetsvilleTown/LevelBlueprints/BP_Car5.BP_Car5_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car5_C_UAID_107C61B9976A2AAA02_1787030413
+[2025.12.10-11.51.48:287][575]LogContentValidation: Display: Validating /Game/AssetsvilleTown/LevelBlueprints/BP_Car6.BP_Car6_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car6_C_UAID_107C61B9976A2AAA02_1835851414
+[2025.12.10-11.51.48:287][575]LogContentValidation: Display: Validating /Game/AssetsvilleTown/LevelBlueprints/BP_Car7.BP_Car7_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car7_C_UAID_107C61B9976A2AAA02_1867037415
+[2025.12.10-11.51.48:287][575]LogContentValidation: Display: Validating /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car8_C_UAID_107C61B9976A2AAA02_1902786417
+[2025.12.10-11.51.48:287][575]LogContentValidation: Display: Validating /Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.BP_WinCar_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_WinCar_C_UAID_107C61B9976A2AAA02_1948358418
