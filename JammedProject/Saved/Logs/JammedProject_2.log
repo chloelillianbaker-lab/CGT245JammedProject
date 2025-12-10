@@ -1716,3 +1716,5 @@ LogInit: Object subsystem initialized
 [2025.12.10-11.51.48:287][575]LogContentValidation: Display: Validating /Game/AssetsvilleTown/LevelBlueprints/BP_Car7.BP_Car7_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car7_C_UAID_107C61B9976A2AAA02_1867037415
 [2025.12.10-11.51.48:287][575]LogContentValidation: Display: Validating /Game/AssetsvilleTown/LevelBlueprints/BP_Car8.BP_Car8_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car8_C_UAID_107C61B9976A2AAA02_1902786417
 [2025.12.10-11.51.48:287][575]LogContentValidation: Display: Validating /Game/AssetsvilleTown/LevelBlueprints/BP_WinCar.BP_WinCar_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_WinCar_C_UAID_107C61B9976A2AAA02_1948358418
+[2025.12.10-11.52.08:471][910]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18417188720114132418
+[2025.12.10-11.52.08:473][910]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
