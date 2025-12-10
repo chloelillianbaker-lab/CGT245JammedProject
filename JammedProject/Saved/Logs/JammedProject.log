@@ -2082,3 +2082,210 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.12.10-13.24.24:285][121]LogContentValidation: Display: Validating /Game/AssetsvilleTown/LevelBlueprints/BP_Car6.BP_Car6_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Car6_C_UAID_107C61B9976A2FAA02_1392766323
 [2025.12.10-13.24.24:285][121]LogContentValidation: Display: Validating /Game/AssetsvilleTown/LevelBlueprints/BP_Invisible.BP_Invisible_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Invisible_C_UAID_107C61B9976A2FAA02_1852869326
 [2025.12.10-13.24.24:285][121]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B9976A2FAA02_1975770327
+[2025.12.10-13.25.07:173][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1390.735107
+[2025.12.10-13.25.07:257][686]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-13.25.07:257][686]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1390.810791, Update Interval: 353.028961
+[2025.12.10-13.28.18:481][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-13.28.18:544][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.12.10-13.28.18:554][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.12.10-13.28.18:565][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.12.10-13.28.18:582][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 1.01 sec)
+[2025.12.10-13.29.43:895][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.12.10-13.29.43:896][685]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.012
+[2025.12.10-13.29.43:897][685]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetsvilleTown/LevelBlueprints/BP_GraphSquare] ([2] browsable assets)...
+[2025.12.10-13.29.43:897][685]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetsvilleTown/LevelBlueprints/BP_GraphSquare]
+[2025.12.10-13.29.43:902][685]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetsvilleTown/LevelBlueprints/BP_GraphSquare_Auto2
+[2025.12.10-13.29.43:902][685]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/BP_GraphSquare_Auto276C49DD845E26515EC379DBC070D680A.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/AssetsvilleTown/LevelBlueprints/BP_GraphSquare_Auto2.uasset'
+[2025.12.10-13.29.43:903][685]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AssetsvilleTown/LevelBlueprints/BP_Invisible] ([2] browsable assets)...
+[2025.12.10-13.29.43:903][685]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetsvilleTown/LevelBlueprints/BP_Invisible]
+[2025.12.10-13.29.43:905][685]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetsvilleTown/LevelBlueprints/BP_Invisible_Auto2
+[2025.12.10-13.29.43:905][685]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/BP_Invisible_Auto29D7E56F34E6454AA6C9D7D955D81016B.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/AssetsvilleTown/LevelBlueprints/BP_Invisible_Auto2.uasset'
+[2025.12.10-13.29.43:906][685]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.12.10-13.31.22:088][452]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1765.630127
+[2025.12.10-13.31.22:155][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-13.31.22:155][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1765.688721, Update Interval: 334.089783
+[2025.12.10-13.37.48:499][166]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2152.040771
+[2025.12.10-13.37.49:500][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-13.37.49:500][169]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2152.707275, Update Interval: 313.321320
+[2025.12.10-13.42.17:217][482]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-13.42.17:258][483]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-13.42.17:283][484]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-13.42.17:306][485]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-13.42.17:353][488]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-13.42.17:393][489]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-13.42.17:418][490]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-13.42.17:464][493]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-13.42.17:503][494]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-13.42.17:527][495]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-13.42.17:548][496]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-13.42.17:572][497]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.12.10-13.42.53:539][634]LogStaticMesh: Display: Building static mesh SM_wallAttic_01...
+[2025.12.10-13.42.53:543][634]LogStaticMesh: Built static mesh [0.01s] /Game/AssetsvilleTown/Meshes/BuildingTilset/SM_wallAttic_01.SM_wallAttic_01
+[2025.12.10-13.42.53:831][647]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AssetsvilleTown/Meshes/BuildingTilset/SM_wallAttic_01.SM_wallAttic_01
+[2025.12.10-13.42.53:832][647]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AssetsvilleTown/Meshes/BuildingTilset/SM_wallAttic_01.SM_wallAttic_01
+[2025.12.10-13.42.53:832][647]LogActorFactory: Actor Factory spawned StaticMesh /Game/AssetsvilleTown/Meshes/BuildingTilset/SM_wallAttic_01.SM_wallAttic_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_26
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: ================================================
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Total job queries 70, among them cache hits 15 (21.43%)
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Tracking 55 distinct input hashes that result in 36 distinct outputs (65.45%)
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: RAM used: 1.25 MiB of 1.60 GiB budget. Usage: 0.08%
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Job execution time: average 1.72 s, max 1.72 s
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Job life time (pending + execution): average 1.82 s, max 1.82
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Shader code size: average 20.152 KiB, min 4.465 KiB, max 35.84 KiB
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.82 s
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Average processing rate: 1.10 jobs/sec
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Total thread time: 1.915 s
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Total thread preprocess time: 1.732 s
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Percentage time preprocessing: 90.44%
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Effective parallelization: 1.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display:                                                  FHitProxyVS - 51.44% of total time (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display:                                                  FHitProxyPS - 48.56% of total time (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2025.12.10-13.42.55:414][742]LogShaderCompilers: Display: ================================================
+[2025.12.10-13.42.55:520][747]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AssetsvilleTown/Meshes/BuildingTilset/SM_wallAttic_01.SM_wallAttic_01
+[2025.12.10-13.42.55:520][747]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AssetsvilleTown/Meshes/BuildingTilset/SM_wallAttic_01.SM_wallAttic_01
+[2025.12.10-13.42.55:522][747]LogActorFactory: Actor Factory spawned StaticMesh /Game/AssetsvilleTown/Meshes/BuildingTilset/SM_wallAttic_01.SM_wallAttic_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B9976A31AA02_1103376680
+[2025.12.10-13.43.44:768][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.12.10-13.43.44:770][680]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IJ/MOGKYCAOGWQ0YBSEWR70XK_Auto3
+[2025.12.10-13.43.44:770][680]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/MOGKYCAOGWQ0YBSEWR70XK_Auto3376476A04D4BB78FABC261848319221F.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IJ/MOGKYCAOGWQ0YBSEWR70XK_Auto3.uasset'
+[2025.12.10-13.43.44:771][680]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.013
+[2025.12.10-13.43.44:771][680]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.013
+[2025.12.10-13.43.50:914][ 49]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2514.459473
+[2025.12.10-13.43.51:014][ 55]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-13.43.51:014][ 55]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2514.542480, Update Interval: 348.603180
+[2025.12.10-13.45.01:707][266]Cmd: EDIT COPY
+[2025.12.10-13.45.02:090][289]Cmd: EDIT PASTE
+[2025.12.10-13.45.28:072][799]Cmd: EDIT COPY
+[2025.12.10-13.45.28:392][818]Cmd: EDIT PASTE
+[2025.12.10-13.45.34:211][162]Cmd: DELETE
+[2025.12.10-13.45.34:211][162]Cmd: ACTOR DELETE
+[2025.12.10-13.45.34:211][162]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2025.12.10-13.45.34:213][162]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.10-13.45.34:224][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.12.10-13.45.34:225][162]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2025.12.10-13.45.39:605][482]Cmd: EDIT COPY
+[2025.12.10-13.45.40:008][506]Cmd: EDIT PASTE
+[2025.12.10-13.45.44:841][792]Cmd: DELETE
+[2025.12.10-13.45.44:841][792]Cmd: ACTOR DELETE
+[2025.12.10-13.45.44:843][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.10-13.45.44:851][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.10-13.45.44:852][792]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.12.10-13.46.36:471][834]Cmd: EDIT COPY
+[2025.12.10-13.46.36:471][834]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2025.12.10-13.46.36:837][856]Cmd: EDIT PASTE
+[2025.12.10-13.47.24:708][700]Cmd: EDIT COPY
+[2025.12.10-13.47.25:296][735]Cmd: EDIT PASTE
+[2025.12.10-13.47.50:193][195]Cmd: EDIT COPY
+[2025.12.10-13.47.50:597][219]Cmd: EDIT PASTE
+[2025.12.10-13.48.42:159][272]Cmd: EDIT COPY
+[2025.12.10-13.48.42:409][287]Cmd: EDIT PASTE
+[2025.12.10-13.49.00:893][380]Cmd: EDIT COPY
+[2025.12.10-13.49.02:612][483]Cmd: EDIT PASTE
+[2025.12.10-13.49.27:790][968]Cmd: EDIT COPY
+[2025.12.10-13.49.28:040][983]Cmd: EDIT PASTE
+[2025.12.10-13.50.20:992][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2904.541504
+[2025.12.10-13.50.21:109][127]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-13.50.21:109][127]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2904.642090, Update Interval: 343.118988
+[2025.12.10-13.51.23:221][829]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.10-13.51.23:221][829]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.10-13.51.23:221][829]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_27
+[2025.12.10-13.51.23:221][829]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_27
+[2025.12.10-13.51.25:243][950]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.10-13.51.25:243][950]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.10-13.51.25:245][950]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B9976A31AA02_1613099690
+[2025.12.10-13.51.25:245][950]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B9976A31AA02_1613099690
+[2025.12.10-13.52.46:497][753]Cmd: EDIT COPY
+[2025.12.10-13.52.47:701][825]Cmd: EDIT PASTE
+[2025.12.10-13.54.14:912][  2]Cmd: TRANSACTION UNDO
+[2025.12.10-13.54.14:912][  2]LogEditorTransaction: Undo Replace component used material
+[2025.12.10-13.54.19:947][290]Cmd: TRANSACTION UNDO
+[2025.12.10-13.54.19:947][290]LogEditorTransaction: Undo Edit Text Material
+[2025.12.10-13.54.28:662][797]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.10-13.55.07:802][123]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.10-13.55.12:158][367]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.10-13.55.44:404][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.12.10-13.55.44:406][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6_Auto4
+[2025.12.10-13.55.44:406][273]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/NG2R9BPZVA7ZDN0Z4VSTG6_Auto44DDE8D28404D3C6CC3FD3D99CCF678FD.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6_Auto4.uasset'
+[2025.12.10-13.55.44:408][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IJ/MOGKYCAOGWQ0YBSEWR70XK_Auto4
+[2025.12.10-13.55.44:408][273]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/MOGKYCAOGWQ0YBSEWR70XK_Auto45DF8C1B6412D46B64CB87398D6E8C1D7.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IJ/MOGKYCAOGWQ0YBSEWR70XK_Auto4.uasset'
+[2025.12.10-13.55.44:409][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/E7/TM5K98Y35GV6F9UYWRC7A9_Auto4
+[2025.12.10-13.55.44:409][273]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/TM5K98Y35GV6F9UYWRC7A9_Auto4B4F490B84CC155EDBC47B2B2D8D1224C.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/E7/TM5K98Y35GV6F9UYWRC7A9_Auto4.uasset'
+[2025.12.10-13.55.44:410][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/BD/PTEF5G9BMQ59JDVO2TH94I_Auto4
+[2025.12.10-13.55.44:410][273]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/PTEF5G9BMQ59JDVO2TH94I_Auto4E714685B40D0D202334F50A80577D737.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/BD/PTEF5G9BMQ59JDVO2TH94I_Auto4.uasset'
+[2025.12.10-13.55.44:413][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/RD/B0NELY1KA03Z2BK1J022PK_Auto4
+[2025.12.10-13.55.44:413][273]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/B0NELY1KA03Z2BK1J022PK_Auto459FD4EAA45D02D8DB79F1BA402AF97DE.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/RD/B0NELY1KA03Z2BK1J022PK_Auto4.uasset'
+[2025.12.10-13.55.44:415][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/3I/6WV262HK63116IFHJJ1P3H_Auto4
+[2025.12.10-13.55.44:415][273]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/6WV262HK63116IFHJJ1P3H_Auto4DBD2D3C54816A4B502B0A79840813316.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/3I/6WV262HK63116IFHJJ1P3H_Auto4.uasset'
+[2025.12.10-13.55.44:417][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BC/2SWAORARD3HH48SYK480OP_Auto4
+[2025.12.10-13.55.44:417][273]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/2SWAORARD3HH48SYK480OP_Auto48B121F6C4F436632EC74DEBB69D0DCA5.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BC/2SWAORARD3HH48SYK480OP_Auto4.uasset'
+[2025.12.10-13.55.44:418][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/R9/B2CO7AMHQ8R82E47941OLC_Auto4
+[2025.12.10-13.55.44:418][273]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/B2CO7AMHQ8R82E47941OLC_Auto47499639F477F09F10B7285A9ECB13175.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/R9/B2CO7AMHQ8R82E47941OLC_Auto4.uasset'
+[2025.12.10-13.55.44:420][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X5/DR27OSI3ZVYJ9GAN1YAXR7_Auto4
+[2025.12.10-13.55.44:420][273]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/DR27OSI3ZVYJ9GAN1YAXR7_Auto47AC272D2437D3B3E45C1E0BC8C4A0BD2.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X5/DR27OSI3ZVYJ9GAN1YAXR7_Auto4.uasset'
+[2025.12.10-13.55.44:422][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/HT/IXPE25E3SOS18KHBO3U9WH_Auto4
+[2025.12.10-13.55.44:422][273]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/IXPE25E3SOS18KHBO3U9WH_Auto4DB8ADC2A4AC661A1D7EB7099EA054453.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/HT/IXPE25E3SOS18KHBO3U9WH_Auto4.uasset'
+[2025.12.10-13.55.44:423][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/J8/ANWIGROY59C48VP8U6H15M_Auto4
+[2025.12.10-13.55.44:423][273]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/ANWIGROY59C48VP8U6H15M_Auto417AED069402049F6BDDE089E7451EAF4.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/J8/ANWIGROY59C48VP8U6H15M_Auto4.uasset'
+[2025.12.10-13.55.44:424][273]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.030
+[2025.12.10-13.55.44:424][273]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2025.12.10-13.55.44:424][273]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetsvilleTown/LevelBlueprints/BP_GraphSquare] ([2] browsable assets)...
+[2025.12.10-13.55.44:424][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetsvilleTown/LevelBlueprints/BP_GraphSquare]
+[2025.12.10-13.55.44:429][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetsvilleTown/LevelBlueprints/BP_GraphSquare_Auto4
+[2025.12.10-13.55.44:429][273]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/BP_GraphSquare_Auto42F341BDB4C61F4E003599287F0872CB5.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/AssetsvilleTown/LevelBlueprints/BP_GraphSquare_Auto4.uasset'
+[2025.12.10-13.55.44:430][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AssetsvilleTown/LevelBlueprints/BP_Invisible] ([2] browsable assets)...
+[2025.12.10-13.55.44:430][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetsvilleTown/LevelBlueprints/BP_Invisible]
+[2025.12.10-13.55.44:432][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetsvilleTown/LevelBlueprints/BP_Invisible_Auto4
+[2025.12.10-13.55.44:432][273]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/BP_Invisible_Auto46858CE194B606154F41FA7BEFF44BC9E.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/Autosaves/Game/AssetsvilleTown/LevelBlueprints/BP_Invisible_Auto4.uasset'
+[2025.12.10-13.55.44:432][273]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.12.10-13.56.00:248][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-13.56.00:307][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.10-13.56.00:318][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.10-13.56.00:330][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.12.10-13.56.00:331][219]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+[2025.12.10-13.56.00:331][219]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/NG2R9BPZVA7ZDN0Z4VSTG6F273F9474F8CBE77CCE358BE7E4B05C3.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2025.12.10-13.56.00:333][219]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IJ/MOGKYCAOGWQ0YBSEWR70XK
+[2025.12.10-13.56.00:333][219]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/MOGKYCAOGWQ0YBSEWR70XK30FC128D435CBB9AE6D3C1A5F9B719F2.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IJ/MOGKYCAOGWQ0YBSEWR70XK.uasset'
+[2025.12.10-13.56.00:335][219]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/E7/TM5K98Y35GV6F9UYWRC7A9
+[2025.12.10-13.56.00:335][219]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/TM5K98Y35GV6F9UYWRC7A9AC211DCA4B80817CF4A19CA9496DF879.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/E7/TM5K98Y35GV6F9UYWRC7A9.uasset'
+[2025.12.10-13.56.00:336][219]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/BD/PTEF5G9BMQ59JDVO2TH94I
+[2025.12.10-13.56.00:336][219]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/PTEF5G9BMQ59JDVO2TH94I906798C141414325F7FDD7971E783ABB.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/BD/PTEF5G9BMQ59JDVO2TH94I.uasset'
+[2025.12.10-13.56.00:338][219]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/RD/B0NELY1KA03Z2BK1J022PK
+[2025.12.10-13.56.00:338][219]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/B0NELY1KA03Z2BK1J022PKE52B6988401FF2588FC507A38F7B4B59.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/RD/B0NELY1KA03Z2BK1J022PK.uasset'
+[2025.12.10-13.56.00:340][219]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/3I/6WV262HK63116IFHJJ1P3H
+[2025.12.10-13.56.00:340][219]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/6WV262HK63116IFHJJ1P3H1E0C2D6344B3BE11E5B43BB706141A0B.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/3I/6WV262HK63116IFHJJ1P3H.uasset'
+[2025.12.10-13.56.00:343][219]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BC/2SWAORARD3HH48SYK480OP
+[2025.12.10-13.56.00:343][219]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/2SWAORARD3HH48SYK480OP7EB8793F4E4C249AF21FFD853D0C2EE9.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BC/2SWAORARD3HH48SYK480OP.uasset'
+[2025.12.10-13.56.00:344][219]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/R9/B2CO7AMHQ8R82E47941OLC
+[2025.12.10-13.56.00:344][219]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/B2CO7AMHQ8R82E47941OLC70148F29427399EBAB0260A3B80FB7E9.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/R9/B2CO7AMHQ8R82E47941OLC.uasset'
+[2025.12.10-13.56.00:346][219]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X5/DR27OSI3ZVYJ9GAN1YAXR7
+[2025.12.10-13.56.00:346][219]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/DR27OSI3ZVYJ9GAN1YAXR7F79295D149ED6325B4296887FA057958.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X5/DR27OSI3ZVYJ9GAN1YAXR7.uasset'
+[2025.12.10-13.56.00:348][219]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/HT/IXPE25E3SOS18KHBO3U9WH
+[2025.12.10-13.56.00:348][219]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/IXPE25E3SOS18KHBO3U9WH8E5C346043439022C69A88A3A2128E28.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/HT/IXPE25E3SOS18KHBO3U9WH.uasset'
+[2025.12.10-13.56.00:349][219]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/J8/ANWIGROY59C48VP8U6H15M
+[2025.12.10-13.56.00:349][219]LogSavePackage: Moving '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Saved/ANWIGROY59C48VP8U6H15M8916D4BF4017F51E6257B8AEED8A9821.tmp' to '../../../../../../Users/dead_/Documents/Unreal Projects/CGT245JammedProject/JammedProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/J8/ANWIGROY59C48VP8U6H15M.uasset'
+[2025.12.10-13.56.00:358][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 1.12 sec)
+[2025.12.10-13.56.00:360][219]AssetCheck: New page: Asset Save: multiple assets
+[2025.12.10-13.56.00:360][219]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2025.12.10-13.56.00:360][219]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B9976A31AA02_1103376680
+[2025.12.10-13.56.00:360][219]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B9976A31AA02_1229947681
+[2025.12.10-13.56.00:360][219]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B9976A31AA02_1324693684
+[2025.12.10-13.56.00:360][219]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B9976A31AA02_1373152685
+[2025.12.10-13.56.00:360][219]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B9976A31AA02_1398453686
+[2025.12.10-13.56.00:360][219]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B9976A31AA02_1450266687
+[2025.12.10-13.56.00:360][219]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B9976A31AA02_1470468688
+[2025.12.10-13.56.00:360][219]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B9976A31AA02_1495896689
+[2025.12.10-13.56.00:360][219]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_107C61B9976A31AA02_1695558691
+[2025.12.10-13.56.00:360][219]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B9976A31AA02_1613099690
+[2025.12.10-13.56.00:979][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-13.56.01:039][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.10-13.56.01:049][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.12.10-13.56.01:060][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.12.10-13.56.01:079][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.22 sec)
